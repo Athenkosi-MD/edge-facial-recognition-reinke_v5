@@ -10,6 +10,7 @@ python-dotenv
 scikit-learn
 Pillow
 psycopg2-binary
+psycopg[binary]
 boto3
 openpyxl
 requests
